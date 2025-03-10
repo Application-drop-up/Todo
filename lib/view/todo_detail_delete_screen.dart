@@ -1,0 +1,1 @@
+// here page is made for deleting each task screen
